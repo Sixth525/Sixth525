@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sixth525
-- 👀 I’m interested in game development and AI 
-- 🌱 I don't know where to learn about game 
-- 💞️ I’m looking to collaborate on game dev projects
+- 👀 I’m interested in Data science and AI
 - 📫 How to reach me vishnudarimireddy@gmail.com
 
 <!---
